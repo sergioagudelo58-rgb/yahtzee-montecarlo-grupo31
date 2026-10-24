@@ -5,3 +5,5 @@ diagrama_flujo_yahtzee.png
 .ipynb_checkpoints/
 __pycache__/
 *.pyc
+# Archivo fuente que generaba la versión anterior del diagrama (graphviz)
+diagrama_flujo_yahtzee
