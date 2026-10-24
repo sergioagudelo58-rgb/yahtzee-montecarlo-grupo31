@@ -1,0 +1,7 @@
+# Ignorar la imagen generada por el diagrama de flujo
+diagrama_flujo_yahtzee.png
+
+# Archivos temporales y cachés de Jupyter/Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
